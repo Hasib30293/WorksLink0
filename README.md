@@ -61,42 +61,74 @@ Every feature is carefully designed to reduce friction and maximize efficiency i
 ## 🖼️ Screenshots
 
 ### Dashboard & Workspace Views
-![Screenshot 1](https://github.com/Heisenberg293/WorksLink0/assets/148477986/3dd82421-eae0-48d7-98a2-6b3cd433af42)
 
-![Screenshot 2](https://github.com/Heisenberg293/WorksLink0/assets/148477986/7bd88f4b-8741-48b0-932c-58f2ae677b76)
+<p align="center">
+  <img src="https://github.com/Heisenberg293/WorksLink0/assets/148477986/3dd82421-eae0-48d7-98a2-6b3cd433af42" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Heisenberg293/WorksLink0/assets/148477986/7bd88f4b-8741-48b0-932c-58f2ae677b76" width="80%"/>
+</p>
 
 ---
 
 ### Interface Previews
-![UI 1](https://github.com/Heisenberg293/WorksLink0/assets/148477986/5be53ee3-c4e7-4454-81c9-718bf78197f3)
 
-![UI 2](https://github.com/Heisenberg293/WorksLink0/assets/148477986/2c51c5d1-2bc4-4aed-a13e-b6b94217aff6)
+<p align="center">
+  <img src="https://github.com/Heisenberg293/WorksLink0/assets/148477986/5be53ee3-c4e7-4454-81c9-718bf78197f3" width="80%"/>
+</p>
 
-![UI 3](https://github.com/Heisenberg293/WorksLink0/assets/148477986/bf40da02-4587-436d-b82a-f1fffbf3986b)
+<p align="center">
+  <img src="https://github.com/Heisenberg293/WorksLink0/assets/148477986/2c51c5d1-2bc4-4aed-a13e-b6b94217aff6" width="80%"/>
+</p>
 
-![UI 4](https://github.com/Heisenberg293/WorksLink0/assets/148477986/82cc511c-bd2d-4023-a54c-193a49c57ccc)
+<p align="center">
+  <img src="https://github.com/Heisenberg293/WorksLink0/assets/148477986/bf40da02-4587-436d-b82a-f1fffbf3986b" width="80%"/>
+</p>
 
-![UI 5](https://github.com/Heisenberg293/WorksLink0/assets/148477986/ba697f33-5dd1-4f26-86ed-39955066223c)
+<p align="center">
+  <img src="https://github.com/Heisenberg293/WorksLink0/assets/148477986/82cc511c-bd2d-4023-a54c-193a49c57ccc" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Heisenberg293/WorksLink0/assets/148477986/ba697f33-5dd1-4f26-86ed-39955066223c" width="80%"/>
+</p>
 
 ---
 
 ### Additional Views
 
-![UI 6](https://github.com/Heisenberg293/WorksLink0/assets/148477986/500776fe-6b01-4322-97b3-f83fceb730f9)
+<p align="center">
+  <img src="https://github.com/Heisenberg293/WorksLink0/assets/148477986/500776fe-6b01-4322-97b3-f83fceb730f9" width="80%"/>
+</p>
 
-![UI 7](https://github.com/Heisenberg293/WorksLink0/assets/148477986/ac785954-8bf8-4120-ac16-b57274f58c10)
+<p align="center">
+  <img src="https://github.com/Heisenberg293/WorksLink0/assets/148477986/ac785954-8bf8-4120-ac16-b57274f58c10" width="80%"/>
+</p>
 
-![UI 8](https://github.com/Heisenberg293/WorksLink0/assets/148477986/c94c43c1-18e6-4b40-b816-570f3c568ee7)
+<p align="center">
+  <img src="https://github.com/Heisenberg293/WorksLink0/assets/148477986/c94c43c1-18e6-4b40-b816-570f3c568ee7" width="80%"/>
+</p>
 
-![UI 9](https://github.com/Heisenberg293/WorksLink0/assets/148477986/0ed34e12-29c6-4255-8439-b9c47bb1a624)
+<p align="center">
+  <img src="https://github.com/Heisenberg293/WorksLink0/assets/148477986/0ed34e12-29c6-4255-8439-b9c47bb1a624" width="80%"/>
+</p>
 
-![UI 10](https://github.com/Heisenberg293/WorksLink0/assets/148477986/74599b8f-cff5-44a0-a145-eb40dddb18f9)
+<p align="center">
+  <img src="https://github.com/Heisenberg293/WorksLink0/assets/148477986/74599b8f-cff5-44a0-a145-eb40dddb18f9" width="80%"/>
+</p>
 
-![UI 11](https://github.com/Heisenberg293/WorksLink0/assets/148477986/dd626445-5575-4246-81c4-16658c384bae)
+<p align="center">
+  <img src="https://github.com/Heisenberg293/WorksLink0/assets/148477986/dd626445-5575-4246-81c4-16658c384bae" width="80%"/>
+</p>
 
-![UI 12](https://github.com/Heisenberg293/WorksLink0/assets/148477986/2d5a1453-9432-4eca-acb7-02bf1cbde24b)
+<p align="center">
+  <img src="https://github.com/Heisenberg293/WorksLink0/assets/148477986/2d5a1453-9432-4eca-acb7-02bf1cbde24b" width="80%"/>
+</p>
 
-![UI 13](https://github.com/Heisenberg293/WorksLink0/assets/148477986/8cfa99b8-ee01-424a-ba7d-b849da317cd5)
+<p align="center">
+  <img src="https://github.com/Heisenberg293/WorksLink0/assets/148477986/8cfa99b8-ee01-424a-ba7d-b849da317cd5" width="80%"/>
+</p>
 
 ---
 
