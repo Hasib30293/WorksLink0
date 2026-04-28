@@ -146,8 +146,8 @@ Unlike traditional project management tools, WorksLink focuses on:
 
 ## 📌 Future Improvements
 
-- AI-powered task suggestions  
-- Advanced analytics dashboard  
+- AI-powered task suggestions  .
+- Advanced analytics dashboard / 
 - Mobile application support  
 - Integration with external tools (GitHub, Google Drive, etc.)  
 
